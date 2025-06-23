@@ -48,3 +48,5 @@ This project demonstrates arm movement simulation using MATLAB and CoppeliaSim i
 
 # Support
 For any mismatch of version , appropriate file can be downloaded from official coppeliasim website(however we have provided most dependencies within our submission)
+
+# For running instructions  for particular functions refer to INSTRUCTIONS.md
